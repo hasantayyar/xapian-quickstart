@@ -12,12 +12,12 @@ Playing with samples at http://xapian.org/docs/
 
     $ mkdir data
 
-    $ ./quickstartindex proverbs \    
+    $ ./quickstartindex data \    
     "I met a little Elfman once" \
     > Down where the lilies blow.
 
 
-    $ ./quickstartindex proverbs \
+    $ ./quickstartindex data \
     > "As I walked soft, in Ravenswood" \
     > through light and dappled shade.
 
