@@ -1,0 +1,1859 @@
+The Project Gutenberg EBook of English Literature, by William J. Long
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: English Literature
+       Its History and Its Significance for the Life of the English Speaking World
+
+Author: William J. Long
+
+Release Date: January 6, 2004 [EBook #10609]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ENGLISH LITERATURE ***
+
+
+
+
+Produced by Kevin Handy, Dave Maddock and PG Distributed Proofreaders
+
+
+
+
+ENGLISH LITERATURE
+
+ITS HISTORY AND ITS SIGNIFICANCE
+FOR THE LIFE OF THE ENGLISH-SPEAKING
+WORLD
+
+A TEXT-BOOK FOR SCHOOLS
+
+BY
+WILLIAM J. LONG, PH.D. (Heidelberg)
+
+       *       *       *       *       *
+
+TO
+MY FRIEND
+C H T
+IN GRATITUDE FOR
+HIS CONTINUED HELP IN THE
+PREPARATION OF
+THIS BOOK
+
+       *       *       *       *       *
+
+PREFACE
+
+This book, which presents the whole splendid history of English literature
+from Anglo-Saxon times to the close of the Victorian Era, has three
+specific aims. The first is to create or to encourage in every student the
+desire to read the best books, and to know literature itself rather than
+what has been written about literature. The second is to interpret
+literature both personally and historically, that is, to show how a great
+book generally reflects not only the author's life and thought but also the
+spirit of the age and the ideals of the nation's history. The third aim is
+to show, by a study of each successive period, how our literature has
+steadily developed from its first simple songs and stories to its present
+complexity in prose and poetry.
+
+To carry out these aims we have introduced the following features:
+
+(1) A brief, accurate summary of historical events and social conditions in
+each period, and a consideration of the ideals which stirred the whole
+nation, as in the days of Elizabeth, before they found expression in
+literature.
+
+(2) A study of the various literary epochs in turn, showing what each
+gained from the epoch preceding, and how each aided in the development of a
+national literature.
+
+(3) A readable biography of every important writer, showing how he lived
+and worked, how he met success or failure, how he influenced his age, and
+how his age influenced him.
+
+(4) A study and analysis of every author's best works, and of many of the
+books required for college-entrance examinations.
+
+(5) Selections enough--especially from earlier writers, and from writers
+not likely to be found in the home or school library--to indicate the
+spirit of each author's work; and directions as to the best works to read,
+and where such works may be found in inexpensive editions.
+
+(6) A frank, untechnical discussion of each great writer's work as a whole,
+and a critical estimate of his relative place and influence in our
+literature.
+
+(7) A series of helps to students and teachers at the end of each chapter,
+including summaries, selections for reading, bibliographies, a list of
+suggestive questions, and a chronological table of important events in the
+history and literature of each period.
+
+(8) Throughout this book we have remembered Roger Ascham's suggestion, made
+over three centuries ago and still pertinent, that "'tis a poor way to make
+a child love study by beginning with the things which he naturally
+dislikes." We have laid emphasis upon the delights of literature; we have
+treated books not as mere instruments of research--which is the danger in
+most of our studies--but rather as instruments of enjoyment and of
+inspiration; and by making our study as attractive as possible we have
+sought to encourage the student to read widely for himself, to choose the
+best books, and to form his own judgment about what our first Anglo-Saxon
+writers called "the things worthy to be remembered."
+
+To those who may use this book in their homes or in their class rooms, the
+writer ventures to offer one or two friendly suggestions out of his own
+experience as a teacher of young people. First, the amount of space here
+given to different periods and authors is not an index of the relative
+amount of time to be spent upon the different subjects. Thus, to tell the
+story of Spenser's life and ideals requires as much space as to tell the
+story of Tennyson; but the average class will spend its time more
+pleasantly and profitably with the latter poet than with the former.
+Second, many authors who are and ought to be included in this history need
+not be studied in the class room. A text-book is not a catechism but a
+storehouse, in which one finds what he wants, and some good things beside.
+Few classes will find time to study Blake or Newman, for instance; but in
+nearly every class there will be found one or two students who are
+attracted by the mysticism of Blake or by the profound spirituality of
+Newman. Such students should be encouraged to follow their own spirits, and
+to share with their classmates the joy of their discoveries. And they
+should find in their text-book the material for their own study and
+reading.
+
+A third suggestion relates to the method of teaching literature; and here
+it might be well to consider the word of a great poet,--that if you would
+know where the ripest cherries are, ask the boys and the blackbirds. It is
+surprising how much a young person will get out of the _Merchant of
+Venice_, and somehow arrive at Shakespeare's opinion of Shylock and Portia,
+if we do not bother him too much with notes and critical directions as to
+what he ought to seek and find. Turn a child and a donkey loose in the same
+field, and the child heads straight for the beautiful spots where brooks
+are running and birds singing, while the donkey turns as naturally to weeds
+and thistles. In our study of literature we have perhaps too much sympathy
+with the latter, and we even insist that the child come back from his own
+quest of the ideal to join us in our critical companionship. In reading
+many text-books of late, and in visiting many class rooms, the writer has
+received the impression that we lay too much stress on second-hand
+criticism, passed down from book to book; and we set our pupils to
+searching for figures of speech and elements of style, as if the great
+books of the world were subject to chemical analysis. This seems to be a
+mistake, for two reasons: first, the average young person has no natural
+interest in such matters; and second, he is unable to appreciate them. He
+feels unconsciously with Chaucer:
+
+    And as for me, though that my wit be lytë,
+    On bookës for to rede I me delytë.
+
+Indeed, many mature persons (including the writer of this history) are
+often unable to explain at first the charm or the style of an author who
+pleases them; and the more profound the impression made by a book, the more
+difficult it is to give expression to our thought and feeling. To read and
+enjoy good books is with us, as with Chaucer, the main thing; to analyze
+the author's style or explain our own enjoyment seems of secondary and
+small importance. However that may be, we state frankly our own conviction
+that the detailed study and analysis of a few standard works--which is the
+only literary pabulum given to many young people in our schools--bears the
+same relation to true literature that theology bears to religion, or
+psychology to friendship. One is a more or less unwelcome mental
+discipline; the other is the joy of life.
+
+The writer ventures to suggest, therefore, that, since literature is our
+subject, we begin and end with good books; and that we stand aside while
+the great writers speak their own message to our pupils. In studying each
+successive period, let the student begin by reading the best that the age
+produced; let him feel in his own way the power and mystery of _Beowulf_,
+the broad charity of Shakespeare, the sublimity of Milton, the romantic
+enthusiasm of Scott; and then, when his own taste is pleased and satisfied,
+a new one will arise,--to know something about the author, the times in
+which he lived, and finally of criticism, which, in its simplicity, is the
+discovery that the men and women of other ages were very much like
+ourselves, loving as we love, bearing the same burdens, and following the
+same ideals:
+
+    Lo, with the ancient
+    Roots of man's nature
+    Twines the eternal
+    Passion of song.
+    Ever Love fans it;
+    Ever Life feeds it;
+    Time cannot age it;
+    Death cannot slay.
+
+To answer the questions which arise naturally between teacher and pupil
+concerning the books that they read, is one object of this volume. It aims
+not simply to instruct but also to inspire; to trace the historical
+development of English literature, and at the same time to allure its
+readers to the best books and the best writers. And from beginning to end
+it is written upon the assumption that the first virtue of such a work is
+to be accurate, and the second to be interesting.
+
+The author acknowledges, with gratitude and appreciation, his indebtedness
+to Professor William Lyon Phelps for the use of his literary map of
+England, and to the keen critics, teachers of literature and history, who
+have read the proofs of this book, and have improved it by their good
+suggestions.
+
+WILLIAM J. LONG STAMFORD, CONNECTICUT
+
+       *       *       *       *       *
+
+
+
+CONTENTS
+
+CHAPTER I. INTRODUCTION--THE MEANING OF LITERATURE
+
+The Shell and the Book. Qualities of Literature. Tests of Literature. The
+Object in studying Literature. Importance of Literature. Summary of the
+Subject. Bibliography.
+
+CHAPTER II. THE ANGLO-SAXON OR OLD-ENGLISH PERIOD
+
+Our First Poetry. "Beowulf." "Widsith." "Deor's Lament." "The Seafarer."
+"The Fight at Finnsburgh." "Waldere." Anglo-Saxon Life. Our First Speech.
+Christian Writers. Northumbrian Literature. Bede. Cædmon. Cynewulf. Decline
+of Northumbrian Literature. Alfred. Summary. Bibliography. Questions.
+Chronology.
+
+CHAPTER III. THE ANGLO-NORMAN PERIOD
+
+The Normans. The Conquest. Literary Ideals of the Normans. Geoffrey of
+Monmouth. Work of the French Writers. Layamon's "Brut." Metrical Romances.
+The Pearl. Miscellaneous Literature of the Norman Period. Summary.
+Bibliography. Questions. Chronology.
+
+CHAPTER IV. THE AGE OF CHAUCER
+
+History of the Period. Five Writers of the Age. Chaucer. Langland. "Piers
+Plowman." John Wyclif. John Mandeville. Summary. Bibliography. Questions.
+Chronology.
+
+CHAPTER V. THE REVIVAL OF LEARNING
+
+Political Changes. Literature of the Revival. Wyatt and Surrey. Malory's
+"Morte d'Arthur." Summary. Bibliography. Questions. Chronology.
+
+CHAPTER VI. THE AGE OF ELIZABETH
+
+Political Summary. Characteristics of the Elizabethan Age. The Non-Dramatic
+Poets. Edmund Spenser. Minor Poets. Thomas Sackville. Philip Sidney. George
+Chapman. Michael Drayton. The Origin of the Drama. The Religious Period of
+the Drama. Miracle and Mystery Plays. The Moral Period of the Drama. The
+Interludes. The Artistic Period of the Drama. Classical Influence upon the
+Drama. Shakespeare's Predecessors in the Drama. Christopher Marlowe.
+Shakespeare. Decline of the Drama. Shakespeare's Contemporaries and
+Successors. Ben Jonson. Beaumont and Fletcher. John Webster. Thomas
+Middleton. Thomas Heywood. Thomas Dekker. Massinger, Ford, Shirley. Prose
+Writers. Francis Bacon. Richard Hooker. Sidney and Raleigh. John Foxe.
+Camden and Knox. Hakluyt and Purchas. Thomas North. Summary. Bibliography.
+Questions. Chronology.
+
+CHAPTER VII. THE PURITAN AGE
+
+The Puritan Movement. Changing Ideals. Literary Characteristics. The
+Transition Poets. Samuel Daniel. The Song Writers. The Spenserian Poets.
+The Metaphysical Poets. John Donne. George Herbert. The Cavalier Poets.
+Thomas Carew. Robert Herrick. Suckling and Lovelace. John Milton. The Prose
+Writers. John Bunyan. Robert Burton. Thomas Browne. Thomas Fuller. Jeremy
+Taylor. Richard Baxter. Izaak Walton. Summary. Bibliography. Questions.
+Chronology.
+
+CHAPTER VIII. PERIOD OF THE RESTORATION
+
+History of the Period. Literary Characteristics. John Dryden. Samuel
+Butler. Hobbes and Locke. Evelyn and Pepys. Summary. Bibliography.
+Questions. Chronology.
+
+CHAPTER IX. EIGHTEENTH-CENTURY LITERATURE
+
+History of the Period. Literary Characteristics. The Classic Age. Alexander
+Pope. Jonathan Swift. Joseph Addison. "The Tatler" and "The Spectator."
+Samuel Johnson. Boswell's "Life of Johnson." Later Augustan Writers. Edmund
+Burke. Edward Gibbon. The Revival of Romantic Poetry. Thomas Gray. Oliver
+Goldsmith. William Cowper. Robert Burns. William Blake. The Minor Poets of
+the Romantic Revival. James Thomson. William Collins. George Crabbe. James
+Macpherson. Thomas Chatterton. Thomas Percy. The First English Novelists.
+Meaning of the Novel. Precursors of the Novel. Discovery of the Modern
+Novel. Daniel Defoe. Samuel Richardson. Henry Fielding. Smollett and
+Sterne. Summary. Bibliography. Questions. Chronology.
+
+CHAPTER X. THE AGE OF ROMANTICISM
+
+Historical Summary. Literary Characteristics of the Age. The Poets of
+Romanticism. William Wordsworth. Samuel Taylor Coleridge. Robert Southey.
+Walter Scott. Byron. Percy Bysshe Shelley. John Keats. Prose Writers of the
+Romantic Period. Charles Lamb. Thomas De Quincey. Jane Austen. Walter
+Savage Landor. Summary. Bibliography. Questions. Chronology.
+
+CHAPTER XI. THE VICTORIAN AGE
+
+Historical Summary. Literary Characteristics. Poets of the Victorian Age.
+Alfred Tennyson. Robert Browning. Minor Poets of the Victorian Age.
+Elizabeth Barrett. Rossetti. Morris. Swinburne. Novelists of the Victorian
+Age. Charles Dickens. William Makepeace Thackeray. George Eliot. Minor
+Novelists of the Victorian Age. Charles Reade. Anthony Trollope. Charlotte
+Brontë. Bulwer Lytton. Charles Kingsley. Mrs. Gaskell. Blackmore. Meredith.
+Hardy. Stevenson. Essayists of the Victorian Age. Macaulay. Carlyle.
+Ruskin. Matthew Arnold. Newman. The Spirit of Modern Literature. Summary.
+Bibliography. Questions. Chronology.
+
+GENERAL BIBLIOGRAPHY
+
+INDEX
+
+       *       *       *       *       *
+
+
+
+CHAPTER I
+
+INTRODUCTION--THE MEANING OF LITERATURE
+
+    Hold the hye wey, and lat thy gost thee lede.
+          Chaucer's _Truth_
+      On, on, you noblest English, ...
+      Follow your spirit.
+            Shakespeare's _Henry V_
+
+
+THE SHELL AND THE BOOK. A child and a man were one day walking on the
+seashore when the child found a little shell and held it to his ear.
+Suddenly he heard sounds,--strange, low, melodious sounds, as if the shell
+were remembering and repeating to itself the murmurs of its ocean home. The
+child's face filled with wonder as he listened. Here in the little shell,
+apparently, was a voice from another world, and he listened with delight to
+its mystery and music. Then came the man, explaining that the child heard
+nothing strange; that the pearly curves of the shell simply caught a
+multitude of sounds too faint for human ears, and filled the glimmering
+hollows with the murmur of innumerable echoes. It was not a new world, but
+only the unnoticed harmony of the old that had aroused the child's wonder.
+
+Some such experience as this awaits us when we begin the study of
+literature, which has always two aspects, one of simple enjoyment and
+appreciation, the other of analysis and exact description. Let a little
+song appeal to the ear, or a noble book to the heart, and for the moment,
+at least, we discover a new world, a world so different from our own that
+it seems a place of dreams and magic. To enter and enjoy this new world, to
+love good books for their own sake, is the chief thing; to analyze and
+explain them is a less joyous but still an important matter. Behind every
+book is a man; behind the man is the race; and behind the race are the
+natural and social environments whose influence is unconsciously reflected.
+These also we must know, if the book is to speak its whole message. In a
+word, we have now reached a point where we wish to understand as well as to
+enjoy literature; and the first step, since exact definition is impossible,
+is to determine some of its essential qualities.
+
+QUALITIES OF LITERATURE. The first significant thing is the essentially
+artistic quality of all literature. All art is the expression of life in
+forms of truth and beauty; or rather, it is the reflection of some truth
+and beauty which are in the world, but which remain unnoticed until brought
+to our attention by some sensitive human soul, just as the delicate curves
+of the shell reflect sounds and harmonies too faint to be otherwise
+noticed. A hundred men may pass a hayfield and see only the sweaty toil and
+the windrows of dried grass; but here is one who pauses by a Roumanian
+meadow, where girls are making hay and singing as they work. He looks
+deeper, sees truth and beauty where we see only dead grass, and he reflects
+what he sees in a little poem in which the hay tells its own story:
+
+      Yesterday's flowers am I,
+    And I have drunk my last sweet draught of dew.
+    Young maidens came and sang me to my death;
+    The moon looks down and sees me in my shroud,
+      The shroud of my last dew.
+    Yesterday's flowers that are yet in me
+    Must needs make way for all to-morrow's flowers.
+    The maidens, too, that sang me to my death
+    Must even so make way for all the maids
+      That are to come.
+    And as my soul, so too their soul will be
+    Laden with fragrance of the days gone by.
+    The maidens that to-morrow come this way
+    Will not remember that I once did bloom,
+    For they will only see the new-born flowers.
+    Yet will my perfume-laden soul bring back,
+    As a sweet memory, to women's hearts
+        Their days of maidenhood.
+    And then they will be sorry that they came
+        To sing me to my death;
+    And all the butterflies will mourn for me.
+        I bear away with me
+    The sunshine's dear remembrance, and the low
+        Soft murmurs of the spring.
+    My breath is sweet as children's prattle is;
+    I drank in all the whole earth's fruitfulness,
+    To make of it the fragrance of my soul
+      That shall outlive my death.[1]
+
+One who reads only that first exquisite line, "Yesterday's flowers am I,"
+can never again see hay without recalling the beauty that was hidden from
+his eyes until the poet found it.
+
+In the same pleasing, surprising way, all artistic work must be a kind of
+revelation. Thus architecture is probably the oldest of the arts; yet we
+still have many builders but few architects, that is, men whose work in
+wood or stone suggests some hidden truth and beauty to the human senses. So
+in literature, which is the art that expresses life in words that appeal to
+our own sense of the beautiful, we have many writers but few artists. In
+the broadest sense, perhaps, literature means simply the written records of
+the race, including all its history and sciences, as well as its poems and
+novels; in the narrower sense literature is the artistic record of life,
+and most of our writing is excluded from it, just as the mass of our
+buildings, mere shelters from storm and from cold, are excluded from
+architecture. A history or a work of science may be and sometimes is
+literature, but only as we forget the subject-matter and the presentation
+of facts in the simple beauty of its expression.
+
+The second quality of literature is its suggestiveness, its appeal to our
+emotions and imagination rather than to our intellect. It is not so much
+what it says as what it awakens in us that constitutes its charm. When
+Milton makes Satan say, "Myself am Hell," he does not state any fact, but
+rather opens up in these three tremendous words a whole world of
+speculation and imagination. When Faustus in the presence of Helen asks,
+"Was this the face that launched a thousand ships?" he does not state a
+fact or expect an answer. He opens a door through which our imagination
+enters a new world, a world of music, love, beauty, heroism,--the whole
+splendid world of Greek literature. Such magic is in words. When
+Shakespeare describes the young Biron as speaking
+
+        In such apt and gracious words
+    That aged ears play truant at his tales,
+
+he has unconsciously given not only an excellent description of himself,
+but the measure of all literature, which makes us play truant with the
+present world and run away to live awhile in the pleasant realm of fancy.
+The province of all art is not to instruct but to delight; and only as
+literature delights us, causing each reader to build in his own soul that
+"lordly pleasure house" of which Tennyson dreamed in his "Palace of Art,"
+is it worthy of its name.
+
+The third characteristic of literature, arising directly from the other
+two, is its permanence. The world does not live by bread alone.
+Notwithstanding its hurry and bustle and apparent absorption in material
+things, it does not willingly let any beautiful thing perish. This is even
+more true of its songs than of its painting and sculpture; though
+permanence is a quality we should hardly expect in the present deluge of
+books and magazines pouring day and night from our presses in the name of
+literature. But this problem of too many books is not modern, as we
+suppose. It has been a problem ever since Caxton brought the first printing
+press from Flanders, four hundred years ago, and in the shadow of
+Westminster Abbey opened his little shop and advertised his wares as "good
+and chepe." Even earlier, a thousand years before Caxton and his printing
+press, the busy scholars of the great library of Alexandria found that the
+number of parchments was much too great for them to handle; and now, when
+we print more in a week than all the Alexandrian scholars could copy in a
+century, it would seem impossible that any production could be permanent;
+that any song or story could live to give delight in future ages. But
+literature is like a river in flood, which gradually purifies itself in two
+ways,--the mud settles to the bottom, and the scum rises to the top. When
+we examine the writings that by common consent constitute our literature,
+the clear stream purified of its dross, we find at least two more
+qualities, which we call the tests of literature, and which determine its
+permanence.
+
+TESTS OF LITERATURE. The first of these is universality, that is, the
+appeal to the widest human interests and the simplest human emotions.
+Though we speak of national and race literatures, like the Greek or
+Teutonic, and though each has certain superficial marks arising out of the
+peculiarities of its own people, it is nevertheless true that good
+literature knows no nationality, nor any bounds save those of humanity. It
+is occupied chiefly with elementary passions and emotions,--love and hate,
+joy and sorrow, fear and faith,--which are an essential part of our human
+nature; and the more it reflects these emotions the more surely does it
+awaken a response in men of every race. Every father must respond to the
+parable of the prodigal son; wherever men are heroic, they will acknowledge
+the mastery of Homer; wherever a man thinks on the strange phenomenon of
+evil in the world, he will find his own thoughts in the Book of Job; in
+whatever place men love their children, their hearts must be stirred by the
+tragic sorrow of _Oedipus_ and _King Lear_. All these are but shining
+examples of the law that only as a book or a little song appeals to
+universal human interest does it become permanent.
+
+The second test is a purely personal one, and may be expressed in the
+indefinite word "style." It is only in a mechanical sense that style is
+"the adequate expression of thought," or "the peculiar manner of expressing
+thought," or any other of the definitions that are found in the rhetorics.
+In a deeper sense, style is the man, that is, the unconscious expression of
+the writer's own personality. It is the very soul of one man reflecting, as
+in a glass, the thoughts and feelings of humanity. As no glass is
+colorless, but tinges more or less deeply the reflections from its surface,
+so no author can interpret human life without unconsciously giving to it
+the native hue of his own soul. It is this intensely personal element that
+constitutes style. Every permanent book has more or less of these two
+elements, the objective and the subjective, the universal and the personal,
+the deep thought and feeling of the race reflected and colored by the
+writer's own life and experience.
+
+THE OBJECT IN STUDYING LITERATURE. Aside from the pleasure of reading, of
+entering into a new world and having our imagination quickened, the study
+of literature has one definite object, and that is to know men. Now man is
+ever a dual creature; he has an outward and an inner nature; he is not only
+a doer of deeds, but a dreamer of dreams; and to know him, the man of any
+age, we must search deeper than his history. History records his deeds, his
+outward acts largely; but every great act springs from an ideal, and to
+understand this we must read his literature, where we find his ideals
+recorded. When we read a history of the Anglo-Saxons, for instance, we
+learn that they were sea rovers, pirates, explorers, great eaters and
+drinkers; and we know something of their hovels and habits, and the lands
+which they harried and plundered. All that is interesting; but it does not
+tell us what most we want to know about these old ancestors of ours,--not
+only what they did, but what they thought and felt; how they looked on life
+and death; what they loved, what they feared, and what they reverenced in
+God and man. Then we turn from history to the literature which they
+themselves produced, and instantly we become acquainted. These hardy people
+were not simply fighters and freebooters; they were men like ourselves;
+their emotions awaken instant response in the souls of their descendants.
+At the words of their gleemen we thrill again to their wild love of freedom
+and the open sea; we grow tender at their love of home, and patriotic at
+their deathless loyalty to their chief, whom they chose for themselves and
+hoisted on their shields in symbol of his leadership. Once more we grow
+respectful in the presence of pure womanhood, or melancholy before the
+sorrows and problems of life, or humbly confident, looking up to the God
+whom they dared to call the Allfather. All these and many more intensely
+real emotions pass through our souls as we read the few shining fragments
+of verses that the jealous ages have left us.
+
+It is so with any age or people. To understand them we must read not simply
+their history, which records their deeds, but their literature, which
+records the dreams that made their deeds possible. So Aristotle was
+profoundly right when he said that "poetry is more serious and
+philosophical than history"; and Goethe, when he explained literature as
+"the humanization of the whole world."
+
+IMPORTANCE OF LITERATURE. It is a curious and prevalent opinion that
+literature, like all art, is a mere play of imagination, pleasing enough,
+like a new novel, but without any serious or practical importance. Nothing
+could be farther from the truth. Literature preserves the ideals of a
+people; and ideals--love, faith, duty, friendship, freedom, reverence--are
+the part of human life most worthy of preservation. The Greeks were a
+marvelous people; yet of all their mighty works we cherish only a few
+ideals,--ideals of beauty in perishable stone, and ideals of truth in
+imperishable prose and poetry. It was simply the ideals of the Greeks and
+Hebrews and Romans, preserved in their literature, which made them what
+they were, and which determined their value to future generations. Our
+democracy, the boast of all English-speaking nations, is a dream; not the
+doubtful and sometimes disheartening spectacle presented in our legislative
+halls, but the lovely and immortal ideal of a free and equal manhood,
+preserved as a most precious heritage in every great literature from the
+Greeks to the Anglo-Saxons. All our arts, our sciences, even our inventions
+are founded squarely upon ideals; for under every invention is still the
+dream of _Beowulf_, that man may overcome the forces of nature; and the
+foundation of all our sciences and discoveries is the immortal dream that
+men "shall be as gods, knowing good and evil."
+
+In a word, our whole civilization, our freedom, our progress, our homes,
+our religion, rest solidly upon ideals for their foundation. Nothing but an
+ideal ever endures upon earth. It is therefore impossible to overestimate
+the practical importance of literature, which preserves these ideals from
+fathers to sons, while men, cities, governments, civilizations, vanish from
+the face of the earth. It is only when we remember this that we appreciate
+the action of the devout Mussulman, who picks up and carefully preserves
+every scrap of paper on which words are written, because the scrap may
+perchance contain the name of Allah, and the ideal is too enormously
+important to be neglected or lost.
+
+SUMMARY OF THE SUBJECT. We are now ready, if not to define, at least to
+understand a little more clearly the object of our present study.
+Literature is the expression of life in words of truth and beauty; it is
+the written record of man's spirit, of his thoughts, emotions, aspirations;
+it is the history, and the only history, of the human soul. It is
+characterized by its artistic, its suggestive, its permanent qualities. Its
+two tests are its universal interest and its personal style. Its object,
+aside from the delight it gives us, is to know man, that is, the soul of
+man rather than his actions; and since it preserves to the race the ideals
+upon which all our civilization is founded, it is one of the most important
+and delightful subjects that can occupy the human mind.
+
+BIBLIOGRAPHY. (NOTE. Each chapter in this book includes a special
+bibliography of historical and literary works, selections for reading,
+chronology, etc.; and a general bibliography of texts, helps, and reference
+books will be found at the end. The following books, which are among the
+best of their kind, are intended to help the student to a better
+appreciation of literature and to a better knowledge of literary
+criticism.)
+
+_GENERAL WORKS_. Woodberry's Appreciation of Literature (Baker & Taylor
+Co.); Gates's Studies in Appreciation (Macmillan); Bates's Talks on the
+Study of Literature (Houghton, Mifflin); Worsfold's On the Exercise of
+Judgment in Literature (Dent); Harrison's The Choice of Books (Macmillan);
+Ruskin's Sesame and Lilies, Part I; Matthew Arnold's Essays in Criticism.
+
+_ESSAYS_. Emerson's Books, in Society and Solitude; Dowden's The
+Interpretation of Literature, in Transcripts and Studies (Kegan Paul &
+Co.), and The Teaching of English Literature, in New Studies in Literature
+(Houghton, Mifflin); The Study of Literature, Essays by Morley, Nicolls,
+and L. Stephen, edited by A.F. Blaisdell (Willard Small).
+
+_CRITICISM_. Gayley and Scott's An Introduction to the Methods and
+Materials of Literary Criticism (Ginn and Company); Winchester's Principles
+of Literary Criticism (Macmillan); Worsfold's Principles of Criticism
+(Longmans); Johnson's Elements of Literary Criticism (American Book
+Company); Saintsbury's History of Criticism (Dodd, Mead).
+
+_POETRY_. Gummere's Handbook of Poetics (Ginn and Company); Stedman's The
+Nature and Elements of Poetry (Houghton, Mifflin); Johnson's The Forms of
+English Poetry (American Book Company); Alden's Specimens of English Verse
+(Holt); Gummere's The Beginnings of Poetry (Macmillan); Saintsbury's
+History of English Prosody (Macmillan).
+
+_THE DRAMA_. Caffin's Appreciation of the Drama (Baker & Taylor Co.).
+
+_THE NOVEL_. Raleigh's The English Novel (Scribner); Hamilton's The
+Materials and Methods of Fiction (Baker & Taylor Co.).
+
+
+       *       *       *       *       *
+
+
+
+CHAPTER II
+
+THE ANGLO-SAXON OR OLD-ENGLISH PERIOD (450-1050)
+
+I. OUR FIRST POETRY
+
+BEOWULF. Here is the story of Beowulf, the earliest and the greatest epic,
+or heroic poem, in our literature. It begins with a prologue, which is not
+an essential part of the story, but which we review gladly for the sake of
+the splendid poetical conception that produced Scyld, king of the Spear
+Danes.[2]
+
+At a time when the Spear Danes were without a king, a ship came sailing
+into their harbor. It was filled with treasures and weapons of war; and in
+the midst of these warlike things was a baby sleeping. No man sailed the
+ship; it came of itself, bringing the child, whose name was Scyld.
+
+Now Scyld grew and became a mighty warrior, and led the Spear Danes for
+many years, and was their king. When his son Beowulf[3] had become strong
+and wise enough to rule, then Wyrd (Fate), who speaks but once to any man,
+came and stood at hand; and it was time for Scyld to go. This is how they
+buried him:
+
+    Then Scyld departed, at word of Wyrd spoken,
+    The hero to go to the home of the gods.
+    Sadly they bore him to brink of the ocean,
+    Comrades, still heeding his word of command.
+    There rode in the harbor the prince's ship, ready,
+    With prow curving proudly and shining sails set.
+    Shipward they bore him, their hero beloved;
+    The mighty they laid at the foot of the mast.
+    Treasures were there from far and near gathered,
+    Byrnies of battle, armor and swords;
+    Never a keel sailed out of a harbor
+    So splendidly tricked with the trappings of war.
+    They heaped on his bosom a hoard of bright jewels
+    To fare with him forth on the flood's great breast.
+    No less gift they gave than the Unknown provided,
+    When alone, as a child, he came in from the mere.
+    High o'er his head waved a bright golden standard--
+    Now let the waves bear their wealth to the holm.
+    Sad-souled they gave back its gift to the ocean,
+    Mournful their mood as he sailed out to sea.[4]
+
+"And no man," says the poet, "neither counselor nor hero, can tell who
+received that lading."
+
+One of Scyld's descendants was Hrothgar, king of the Danes; and with him
+the story of our Beowulf begins. Hrothgar in his old age had built near the
+sea a mead hall called Heorot, the most splendid hall in the whole world,
+where the king and his thanes gathered nightly to feast and to listen to
+the songs of his gleemen. One night, as they were all sleeping, a frightful
+monster, Grendel, broke into the hall, killed thirty of the sleeping
+warriors, and carried off their bodies to devour them in his lair under the
+sea. The appalling visit was speedily repeated, and fear and death reigned
+in the great hall. The warriors fought at first; but fled when they
+discovered that no weapon could harm the monster. Heorot was left deserted
+and silent. For twelve winters Grendel's horrible raids continued, and joy
+was changed to mourning among the Spear Danes.
+
+At last the rumor of Grendel crossed over the sea to the land of the Geats,
+where a young hero dwelt in the house of his uncle, King Hygelac. Beowulf
+was his name, a man of immense strength and courage, and a mighty swimmer
+who had developed his powers fighting the "nickers," whales, walruses and
+seals, in the icebound northern ocean. When he heard the story, Beowulf was
+stirred to go and fight the monster and free the Danes, who were his
+father's friends.
+
+With fourteen companions he crosses the sea. There is an excellent bit of
+ocean poetry here (ll. 210-224), and we get a vivid idea of the hospitality
+of a brave people by following the poet's description of Beowulf's meeting
+with King Hrothgar and Queen Wealhtheow, and of the joy and feasting and
+story-telling in Heorot. The picture of Wealhtheow passing the mead cup to
+the warriors with her own hand is a noble one, and plainly indicates the
+reverence paid by these strong men to their wives and mothers. Night comes
+on; the fear of Grendel is again upon the Danes, and all withdraw after the
+king has warned Beowulf of the frightful danger of sleeping in the hall.
+But Beowulf lies down with his warriors, saying proudly that, since weapons
+will not avail against the monster, he will grapple with him bare handed
+and trust to a warrior's strength.
+
+    Forth from the fens, from the misty moorlands,
+    Grendel came gliding--God's wrath[5] he bore--
+    Came under clouds, until he saw clearly,
+    Glittering with gold plates, the mead hall of men.
+    Down fell the door, though fastened with fire bands;
+    Open it sprang at the stroke of his paw.
+    Swollen with rage burst in the bale-bringer;
+    Flamed in his eyes a fierce light, likest fire.[6]
+
+At the sight of men again sleeping in the hall, Grendel laughs in his
+heart, thinking of his feast. He seizes the nearest sleeper, crushes his
+"bone case" with a bite, tears him limb from limb, and swallows him. Then
+he creeps to the couch of Beowulf and stretches out a claw, only to find it
+clutched in a grip of steel. A sudden terror strikes the monster's heart.
+He roars, struggles, tries to jerk his arm free; but Beowulf leaps to his
+feet and grapples his enemy bare handed. To and fro they surge. Tables are
+overturned; golden benches ripped from their fastenings; the whole building
+quakes, and only its iron bands keep it from falling to pieces. Beowulf's
+companions are on their feet now, hacking vainly at the monster with swords
+and battle-axes, adding their shouts to the crashing of furniture and the
+howling "war song" of Grendel. Outside in the town the Danes stand
+shivering at the uproar. Slowly the monster struggles to the door, dragging
+Beowulf, whose fingers crack with the strain, but who never relaxes his
+first grip. Suddenly a wide wound opens in the monster's side; the sinews
+snap; the whole arm is wrenched off at the shoulder; and Grendel escapes
+shrieking across the moor, and plunges into the sea to die.
+
+Beowulf first exults in his night's work; then he hangs the huge arm with
+its terrible claws from a cross-beam over the king's seat, as one would
+hang up a bear's skin after a hunt. At daylight came the Danes; and all day
+long, in the intervals of singing, story-telling, speech making, and gift
+giving, they return to wonder at the mighty "grip of Grendel" and to
+rejoice in Beowulf's victory.
+
+When night falls a great feast is spread in Heorot, and the Danes sleep
+once more in the great hall. At midnight comes another monster, a horrible,
+half-human creature,[7] mother of Grendel, raging to avenge her offspring.
+She thunders at the door; the Danes leap up and grasp their weapons; but
+the monster enters, seizes Aeschere, who is friend and adviser of the king,
+and rushes away with him over the fens.
+
+The old scenes of sorrow are reviewed in the morning; but Beowulf says
+simply:
+
+    Sorrow not, wise man. It is better for each
+    That his friend he avenge than that he mourn much.
+    Each of us shall the end await
+    Of worldly life: let him who may gain
+    Honor ere death. That is for a warrior,
+    When he is dead, afterwards best.
+    Arise, kingdom's guardian! Let us quickly go
+    To view the track of Grendel's kinsman.
+    I promise it thee: he will not escape,
+    Nor in earth's bosom, nor in mountain-wood,
+    Nor in ocean's depths, go where he will.[8]
+
+Then he girds himself for the new fight and follows the track of the second
+enemy across the fens. Here is Hrothgar's description of the place where
+live the monsters, "spirits of elsewhere," as he calls them:
+
+                    They inhabit
+    The dim land that gives shelter to the wolf,
+    The windy headlands, perilous fen paths,
+    Where, under mountain mist, the stream flows down
+    And floods the ground. Not far hence, but a mile,
+    The mere stands, over which hang death-chill groves,
+    A wood fast-rooted overshades the flood;
+    There every night a ghastly miracle
+    Is seen, fire in the water. No man knows,
+    Not the most wise, the bottom of that mere.
+    The firm-horned heath-stalker, the hart, when pressed,
+    Wearied by hounds, and hunted from afar,
+    Will rather die of thirst upon its bank
+    Than bend his head to it. It is unholy.
+    Dark to the clouds its yeasty waves mount up
+    When wind stirs hateful tempest, till the air
+    Grows dreary, and the heavens pour down tears.[9]
+
+Beowulf plunges into the horrible place, while his companions wait for him
+oh the shore. For a long time he sinks through the flood; then, as he
+reaches bottom, Grendel's mother rushes out upon him and drags him into a
+cave, where sea monsters swarm at him from behind and gnash his armor with
+their tusks. The edge of his sword is turned with the mighty blow he deals
+the _merewif_; but it harms not the monster. Casting the weapon aside, he
+grips her and tries to hurl her down, while her claws and teeth clash upon
+his corslet but cannot penetrate the steel rings. She throws her bulk upon
+him, crushes him down, draws a short sword and plunges it at him; but again
+his splendid byrnie saves him. He is wearied now, and oppressed. Suddenly,
+as his eye sweeps the cave, he catches sight of a magic sword, made by the
+giants long ago, too heavy for warriors to wield. Struggling up he seizes
+the weapon, whirls it and brings down a crashing blow upon the monster's
+neck. It smashes through the ring bones; the _merewif_ falls, and the fight
+is won.
+
+The cave is full of treasures; but Beowulf heeds them not, for near him
+lies Grendel, dead from the wound received the previous night. Again
+Beowulf swings the great sword and strikes off his enemy's head; and lo, as
+the venomous blood touches the sword blade, the steel melts like ice before
+the fire, and only the hilt is left in Beowulf's hand. Taking the hilt and
+the head, the hero enters the ocean and mounts up to the shore.
+
+Only his own faithful band were waiting there; for the Danes, seeing the
+ocean bubble with fresh blood, thought it was all over with the hero and
+had gone home. And there they were, mourning in Heorot, when Beowulf
+returned with the monstrous head of Grendel carried on a spear shaft by
+four of his stoutest followers.
+
+In the last part of the poem there is another great fight. Beowulf is now
+an old man; he has reigned for fifty years, beloved by all his people. He
+has overcome every enemy but one, a fire dragon keeping watch over an
+enormous treasure hidden among the mountains. One day a wanderer stumbles
+upon the enchanted cave and, entering, takes a jeweled cup while the
+firedrake sleeps heavily. That same night the dragon, in a frightful rage,
+belching forth fire and smoke, rushes down upon the nearest villages,
+leaving a trail of death and terror behind him.
+
+Again Beowulf goes forth to champion his people. As he approaches the
+dragon's cave, he has a presentiment that death lurks within:
+
+    Sat on the headland there the warrior king;
+    Farewell he said to hearth-companions true,
+    The gold-friend of the Geats; his mind was sad,
+    Death-ready, restless. And Wyrd was drawing nigh,
+    Who now must meet and touch the aged man,
+    To seek the treasure that his soul had saved
+    And separate his body from his life.[10]
+
+There is a flash of illumination, like that which comes to a dying man, in
+which his mind runs back over his long life and sees something of profound
+meaning in the elemental sorrow moving side by side with magnificent
+courage. Then follows the fight with the firedrake, in which Beowulf,
+wrapped in fire and smoke, is helped by the heroism of Wiglaf, one of his
+companions. The dragon is slain, but the fire has entered Beowulf's lungs
+and he knows that Wyrd is at hand. This is his thought, while Wiglaf
+removes his battered armor:
+
+    "One deep regret I have: that to a son
+    I may not give the armor I have worn,
+    To bear it after me. For fifty years
+    I ruled these people well, and not a king
+    Of those who dwell around me, dared oppress
+    Or meet me with his hosts. At home I waited
+    For the time that Wyrd controls. Mine own I kept,
+    Nor quarrels sought, nor ever falsely swore.
+    Now, wounded sore, I wait for joy to come."[11]
+
+He sends Wiglaf into the firedrake's cave, who finds it filled with rare
+treasures and, most wonderful of all, a golden banner from which light
+proceeds and illumines all the darkness. But Wiglaf cares little for the
+treasures; his mind is full of his dying chief. He fills his hands with
+costly ornaments and hurries to throw them at his hero's feet. The old man
+looks with sorrow at the gold, thanks the "Lord of all" that by death he
+has gained more riches for his people, and tells his faithful thane how his
+body shall be burned on the Whale ness, or headland:
+
+    "My life is well paid for this hoard; and now
+    Care for the people's needs. I may no more
+    Be with them. Bid the warriors raise a barrow
+    After the burning, on the ness by the sea,
+    On Hronesness, which shall rise high and be
+    For a remembrance to my people. Seafarers
+    Who from afar over the mists of waters
+    Drive foamy keels may call it Beowulf's Mount
+    Hereafter." Then the hero from his neck
+    Put off a golden collar; to his thane,
+    To the young warrior, gave it with his helm,
+    Armlet and corslet; bade him use them well.
+    "Thou art the last Waegmunding of our race,
+    For fate has swept my kinsmen all away.
+    Earls in their strength are to their Maker gone,
+    And I must follow them."[12]
+
+Beowulf was still living when Wiglaf sent a messenger hurriedly to his
+people; when they came they found him dead, and the huge dragon dead on the
+sand beside him.
+
+    Then the Goth's people reared a mighty pile
+    With shields and armour hung, as he had asked,
+    And in the midst the warriors laid their lord,
+    Lamenting. Then the warriors on the mount
+    Kindled a mighty bale fire; the smoke rose
+    Black from the Swedish pine, the sound of flame
+    Mingled with sound of weeping; ... while smoke
+    Spread over heaven. Then upon the hill
+    The people of the Weders wrought a mound,
+    High, broad, and to be seen far out at sea.
+    In ten days they had built and walled it in
+    As the wise thought most worthy; placed in it
+    Rings, jewels, other treasures from the hoard.
+    They left the riches, golden joy of earls,
+    In dust, for earth to hold; where yet it lies,
+    Useless as ever. Then about the mound
+    The warriors rode, and raised a mournful song
+    For their dead king; exalted his brave deeds,
+    Holding it fit men honour their liege lord,
+    Praise him and love him when his soul is fled.
+    Thus the [Geat's] people, sharers of his hearth,
+    Mourned their chief's fall, praised him, of kings, of men
+    The mildest and the kindest, and to all
+    His people gentlest, yearning for their praise.[13]
+
+One is tempted to linger over the details of the magnificent ending: the
+unselfish heroism of Beowulf, the great prototype of King Alfred; the
+generous grief of his people, ignoring gold and jewels in the thought of
+the greater treasure they had lost; the memorial mound on the low cliff,
+which would cause every returning mariner to steer a straight course to
+harbor in the remembrance of his dead hero; and the pure poetry which marks
+every noble line. But the epic is great enough and simple enough to speak
+for itself. Search the literatures of the world, and you will find no other
+such picture of a brave man's death.
+
+Concerning the history of _Beowulf_ a whole library has been written, and
+scholars still differ too radically for us to express a positive judgment.
+This much, however, is clear,--that there existed, at the time the poem was
+composed, various northern legends of Beowa, a half-divine hero, and the
+monster Grendel. The latter has been interpreted in various
+ways,--sometimes as a bear, and again as the malaria of the marsh lands.
+For those interested in symbols the simplest interpretation of these myths
+is to regard Beowulf's successive fights with the three dragons as the
+overcoming, first, of the overwhelming danger of the sea, which was beaten
+back by the dykes; second, the conquering of the sea itself, when men
+learned to sail upon it; and third, the conflict with the hostile forces of
+nature, which are overcome at last by man's indomitable will and
+perseverance.
+
+All this is purely mythical; but there are historical incidents to reckon
+with. About the year 520 a certain northern chief, called by the chronicler
+Chochilaicus (who is generally identified with the Hygelac of the epic),
+led a huge plundering expedition up the Rhine. After a succession of
+battles he was overcome by the Franks, but--and now we enter a legendary
+region once more--not until a gigantic nephew of Hygelac had performed
+heroic feats of valor, and had saved the remnants of the host by a
+marvelous feat of swimming. The majority of scholars now hold that these
+historical events and personages were celebrated in the epic; but some
+still assert that the events which gave a foundation for _Beowulf_ occurred
+wholly on English soil, where the poem itself was undoubtedly written.
+
+The rhythm of _Beowulf_ and indeed of all our earliest poetry depended upon
+accent and alliteration; that is, the beginning of two or more words in the
+same line with the same sound or letter. The lines were made up of two
+short halves, separated by a pause. No rime was used; but a musical effect
+was produced by giving each half line two strongly accented syllables. Each
+full line, therefore, had four accents, three of which (i.e. two in the
+first half, and one in the second) usually began with the same sound or
+letter. The musical effect was heightened by the harp with which the
+gleeman accompanied his singing.. The poetical form will be seen clearly in
+the following selection from the wonderfully realistic description of the
+fens haunted by Grendel. It will need only one or two readings aloud to
+show that many of these strange-looking words are practically the same as
+those we still use, though many of the vowel sounds were pronounced
+differently by our ancestors.
+
+                              ... Hie dygel lond
+    Warigeath, wulf-hleothu,     windige næssas,
+      Frecne fen-gelad,      thær fyrgen-stream
+    Under næssa genipu     nither gewiteth,
+    Flod under foldan.     Nis thæt feor heonon,
+    Mil-gemearces,     thaet se mere standeth,
+    Ofer thæm hongiath     hrinde bearwas
+                     ... They (a) darksome land
+    Ward (inhabit), wolf cliffs,     windy nesses,
+    Frightful fen paths     where mountain stream
+    Under nesses' mists     nether (downward) wanders,
+    A flood under earth.     It is not far hence,
+    By mile measure,     that the mere stands,
+    Over which hang     rimy groves.
+
+WIDSITH. The poem "Widsith," the wide goer or wanderer, is in part, at
+least, probably the oldest in our language. The author and the date of its
+composition are unknown; but the personal account of the minstrel's life
+belongs to the time before the Saxons first came to England.[14] It
+expresses the wandering life of the gleeman, who goes forth into the world
+to abide here or there, according as he is rewarded for his singing. From
+the numerous references to rings and rewards, and from the praise given to
+generous givers, it would seem that literature as a paying profession began
+very early in our history, and also that the pay was barely sufficient to
+hold soul and body together. Of all our modern poets, Goldsmith wandering
+over Europe paying for his lodging with his songs is most suggestive of
+this first recorded singer of our race. His last lines read:
+
+    Thus wandering, they who shape songs for men
+    Pass over many lands, and tell their need,
+    And speak their thanks, and ever, south or north,
+    Meet someone skilled in songs and free in gifts,
+    Who would be raised among his friends to fame
+    And do brave deeds till light and life are gone.
+    He who has thus wrought himself praise shall have
+    A settled glory underneath the stars.[15]
+
+DEOR'S LAMENT. In "Deor" we have another picture of the Saxon scop, or
+minstrel, not in glad wandering, but in manly sorrow. It seems that the
+scop's living depended entirely upon his power to please his chief, and
+that at any time he might be supplanted by a better poet. Deor had this
+experience, and comforts himself in a grim way by recalling various
+examples of men who have suffered more than himself. The poem is arranged
+in strophes, each one telling of some afflicted hero and ending with the
+same refrain: _His sorrow passed away; so will mine_. "Deor" is much more
+poetic than "Widsith," and is the one perfect lyric[16] of the Anglo-Saxon
+period.
+
+    Weland for a woman knew too well exile.
+    Strong of soul that earl, sorrow sharp he bore;
+    To companionship he had care and weary longing,
+    Winter-freezing wretchedness. Woe he found again, again,
+    After that Nithhad in a need had laid him--
+    Staggering sinew-wounds--sorrow-smitten man!
+    _That he overwent; this also may I_.[17]
+
+THE SEAFARER. The wonderful poem of "The Seafarer" seems to be in two
+distinct parts. The first shows the hardships of ocean life; but stronger
+than hardships is the subtle call of the sea. The second part is an
+allegory, in which the troubles of the seaman are symbols of the troubles
+of this life, and the call of the ocean is the call in the soul to be up
+and away to its true home with God. Whether the last was added by some monk
+who saw the allegorical possibilities of the first part, or whether some
+sea-loving Christian scop wrote both, is uncertain. Following are a few
+selected lines to show the spirit of the poem:
+
+    The hail flew in showers about me; and there I heard only
+    The roar of the sea, ice-cold waves, and the song of the swan;
+    For pastime the gannets' cry served me; the kittiwakes' chatter
+    For laughter of men; and for mead drink the call of the sea mews.
+    When storms on the rocky cliffs beat, then the terns, icy-feathered,
+    Made answer; full oft the sea eagle forebodingly screamed,
+    The eagle with pinions wave-wet....
+    The shadows of night became darker, it snowed from the north;
+    The world was enchained by the frost; hail fell upon earth;
+    'T was the coldest of grain. Yet the thoughts of my heart now are throbbing
+    To test the high streams, the salt waves in tumultuous play.
+    Desire in my heart ever urges my spirit to wander,
+    To seek out the home of the stranger in lands afar off.
+      There is no one that dwells upon earth, so exalted in mind,
+    But that he has always a longing, a sea-faring passion
+    For what the Lord God shall bestow, be it honor or death.
+    No heart for the harp has he, nor for acceptance of treasure,
+    No pleasure has he in a wife, no delight in the world,
+    Nor in aught save the roll of the billows; but always a longing,
+    A yearning uneasiness, hastens him on to the sea.
+      The woodlands are captured by blossoms, the hamlets grow fair,
+    Broad meadows are beautiful, earth again bursts into life,
+    And all stir the heart of the wanderer eager to journey,
+    So he meditates going afar on the pathway of tides.
+    The cuckoo, moreover, gives warning with sorrowful note,
+    Summer's harbinger sings, and forebodes to the heart bitter sorrow.
+      Now my spirit uneasily turns in the heart's narrow chamber,
+    Now wanders forth over the tide, o'er the home of the whale,
+    To the ends of the earth--and comes back to me.
+      Eager and greedy,
+    The lone wanderer screams, and resistlessly drives my soul onward,
+    Over the whale-path, over the tracts of the sea.[18]
+
+THE FIGHT AT FINNSBURGH AND WALDERE. Two other of our oldest poems well
+deserve mention. The "Fight at Finnsburgh" is a fragment of fifty lines,
+discovered on the inside of a piece of parchment drawn over the wooden
+covers of a book of homilies. It is a magnificent war song, describing with
+Homeric power the defense of a hall by Hnæf[19] with sixty warriors,
+against the attack of Finn and his army. At midnight, when Hnæf and his men
+are sleeping, they are surrounded by an army rushing in with fire and
+sword. Hnæf springs to his feet at the first alarm and wakens his warriors
+with a call to action that rings like a bugle blast:
+
+    This no eastward dawning is, nor is here a dragon flying,
+    Nor of this high hall are the horns a burning;
+    But they rush upon us here--now the ravens sing,
+    Growling is the gray wolf, grim the war-wood rattles,
+    Shield to shaft is answering.[20]
+
+The fight lasts five days, but the fragment ends before we learn the
+outcome: The same fight is celebrated by Hrothgar's gleeman at the feast in
+Heorot, after the slaying of Grendel.
+
+"Waldere" is a fragment of two leaves, from which we get only a glimpse of
+the story of Waldere (Walter of Aquitaine) and his betrothed bride
+Hildgund, who were hostages at the court of Attila. They escaped with a
+great treasure, and in crossing the mountains were attacked by Gunther and
+his warriors, among whom was Walter's former comrade, Hagen. Walter fights
+them all and escapes. The same story was written in Latin in the tenth
+century, and is also part of the old German _Nibelungenlied_. Though the
+saga did not originate with the Anglo-Saxons, their version of it is the
+oldest that has come down to us. The chief significance of these "Waldere"
+fragments lies in the evidence they afford that our ancestors were familiar
+with the legends and poetry of other Germanic peoples.
+
+
+II. ANGLO-SAXON LIFE
+
+We have now read some of our earliest records, and have been surprised,
+perhaps, that men who are generally described in the histories as savage
+fighters and freebooters could produce such excellent poetry. It is the
+object of the study of all literature to make us better acquainted with
+men,--not simply with their deeds, which is the function of history, but
+with the dreams and ideals which underlie all their actions. So a reading
+of this early Anglo-Saxon poetry not only makes us acquainted, but also
+leads to a profound respect for the men who were our ancestors. Before we
+study more of their literature it is well to glance briefly at their life
+and language.
+
+THE NAME Originally the name Anglo-Saxon denotes two of the three Germanic
+tribes,--Jutes, Angles, and Saxons,--who in the middle of the fifth
+century left their homes on the shores of the North Sea and the Baltic to
+conquer and colonize distant Britain. Angeln was the home of one tribe, and
+the name still clings to the spot whence some of our forefathers sailed on
+their momentous voyage. The old Saxon word _angul_ or _ongul_ means a hook,
+and the English verb _angle_ is used invariably by Walton and older writers
+in the sense of fishing. We may still think, therefore, of the first Angles
+as hook-men, possibly because of their fishing, more probably because the
+shore where they lived, at the foot of the peninsula of Jutland, was bent
+in the shape of a fishhook. The name Saxon from _seax, sax_, a short sword,
+means the sword-man, and from the name we may judge something of the temper
+of the hardy fighters who preceded the Angles into Britain. The Angles were
+the most numerous of the conquering tribes, and from them the new home was
+called Anglalond. By gradual changes this became first Englelond and then
+England.
+
+More than five hundred years after the landing of these tribes, and while
+they called themselves Englishmen, we find the Latin writers of the Middle
+Ages speaking of the inhabitants of Britain as _Anglisaxones_,--that is,
+Saxons of England,--to distinguish them from the Saxons of the Continent.
+In the Latin charters of King Alfred the same name appears; but it is never
+seen or heard in his native speech. There he always speaks of his beloved
+"Englelond" and of his brave "Englisc" people. In the sixteenth century,
+when the old name of Englishmen clung to the new people resulting from the
+union of Saxon and Norman, the name Anglo-Saxon was first used in the
+national sense by the scholar Camden[21] in his _History of Britain_; and
+since then it has been in general use among English writers. In recent
+years the name has gained a wider significance, until it is now used to
+denote a spirit rather than a nation, the brave, vigorous, enlarging spirit
+that characterizes the English-speaking races everywhere, and that has
+already put a broad belt of English law and English liberty around the
+whole world.
+
+THE LIFE. If the literature of a people springs directly out of its life,
+then the stern, barbarous life of our Saxon forefathers would seem, at
+first glance, to promise little of good literature. Outwardly their life
+was a constant hardship, a perpetual struggle against savage nature and
+savage men. Behind them were gloomy forests inhabited by wild beasts and
+still wilder men, and peopled in their imagination with dragons and evil
+shapes. In front of them, thundering at the very dikes for entrance, was
+the treacherous North Sea, with its fogs and storms and ice, but with that
+indefinable call of the deep that all men hear who live long beneath its
+influence. Here they lived, a big, blond, powerful race, and hunted and
+fought and sailed, and drank and feasted when their labor was done. Almost
+the first thing we notice about these big, fearless, childish men is that
+they love the sea; and because they love it they hear and answer its call:
+
+    ... No delight has he in the world,
+    Nor in aught save the roll of the billows; but always a longing,
+    A yearning uneasiness, hastens him on to the sea.[22]
+
+As might be expected, this love of the ocean finds expression in all their
+poetry. In _Beowulf_ alone there are fifteen names for the sea, from the
+_holm_, that is, the horizon sea, the "upmounding," to the _brim_, which is
+the ocean flinging its welter of sand and creamy foam upon the beach at
+your feet. And the figures used to describe or glorify it--"the swan road,
+the whale path, the heaving battle plain"--are almost as numerous. In all
+their poetry there is a magnificent sense of lordship over the wild sea
+even in its hour of tempest and fury:
+
+    Often it befalls us, on the ocean's highways,
+    In the boats our boatmen, when the storm is roaring,
+    Leap the billows over, on our stallions of the foam.[23]
+
+THE INNER LIFE. A man's life is more than his work; his dream is ever
+greater than his achievement; and literature reflects not so much man's
+deed as the spirit which animates him; not the poor thing that he does, but
+rather the splendid thing that he ever hopes to do. In no place is this
+more evident than in the age we are now studying. Those early sea kings
+were a marvelous mixture of savagery and sentiment, of rough living and of
+deep feeling, of splendid courage and the deep melancholy of men who know
+their limitations and have faced the unanswered problem of death. They were
+not simply fearless freebooters who harried every coast in their war
+galleys. If that were all, they would have no more history or literature
+than the Barbary pirates, of whom the same thing could be said. These
+strong fathers of ours were men of profound emotions. In all their fighting
+the love of an untarnished glory was uppermost; and under the warrior's
+savage exterior was hidden a great love of home and homely virtues, and a
+reverence for the one woman to whom he would presently return in triumph.
+So when the wolf hunt was over, or the desperate fight was won, these
+mighty men would gather in the banquet hall, and lay their weapons aside
+where the open fire would flash upon them, and there listen to the songs of
+Scop and Gleeman,--men who could put into adequate words the emotions and
+aspirations that all men feel but that only a few can ever express:
+
+    Music and song where the heroes sat--
+    The glee-wood rang, a song uprose
+    When Hrothgar's scop gave the hall good cheer.[24]
+
+It is this great and hidden life of the Anglo-Saxons that finds expression
+in all their literature. Briefly, it is summed up in five great
+principles,--their love of personal freedom, their responsiveness to
+nature, their religion, their reverence for womanhood, and their struggle
+for glory as a ruling motive in every noble life.
+
+In reading Anglo-Saxon poetry it is well to remember these five principles,
+for they are like the little springs at the head of a great river,--clear,
+pure springs of poetry, and out of them the best of our literature has
+always flowed. Thus when we read,
+
+    Blast of the tempest--it aids our oars;
+    Rolling of thunder--it hurts us not;
+    Rush of the hurricane--bending its neck
+    To speed us whither our wills are bent,
+
+we realize that these sea rovers had the spirit of kinship with the mighty
+life of nature; and kinship with nature invariably expresses itself in
+poetry. Again, when we read,
+
+    Now hath the man
+    O'ercome his troubles. No pleasure does he lack,
+    Nor steeds, nor jewels, nor the joys of mead,
+    Nor any treasure that the earth can give,
+    O royal woman, if he have but thee,[25]
+
+we know we are dealing with an essentially noble man, not a savage; we are
+face to face with that profound reverence for womanhood which inspires the
+greater part of all good poetry, and we begin to honor as well as
+understand our ancestors. So in the matter of glory or honor; it was,
+apparently, not the love of fighting, but rather the love of honor
+resulting from fighting well, which animated our forefathers in every
+campaign. "He was a man deserving of remembrance" was the highest thing
+that could be said of a dead warrior; and "He is a man deserving of praise"
+was the highest tribute to the living. The whole secret of Beowulf's mighty
+life is summed up in the last line, "Ever yearning for his people's
+praise." So every tribe had its scop, or poet, more important than any
+warrior, who put the deeds of its heroes into the expressive words that
+constitute literature; and every banquet hall had its gleeman, who sang the
+scop's poetry in order that the deed and the man might be remembered.
+Oriental peoples built monuments to perpetuate the memory of their dead;
+but our ancestors made poems, which should live and stir men's souls long
+after monuments of brick and stone had crumbled away. It is to this intense
+love of glory and the desire to be remembered that we are indebted for
+Anglo-Saxon literature.
+
+OUR FIRST SPEECH. Our first recorded speech begins with the songs of
+Widsith and Deor, which the Anglo-Saxons may have brought with them when
+they first conquered Britain. At first glance these songs in their native
+dress look strange as a foreign tongue; but when we examine them carefully
+we find many words that have been familiar since childhood. We have seen
+this in _Beowulf_; but in prose the resemblance of this old speech to our
+own is even more striking. Here, for instance, is a fragment of the simple
+story of the conquest of Britain by our Anglo-Saxon ancestors:
+
+Her Hengest and Æsc his sunu gefuhton with Bryttas, on thaere
+stowe the is gecweden Creccanford, and thær ofslogon feower thusenda wera.
+And tha Bryttas tha forleton Cent-lond, and mid myclum ege flugon to
+Lundenbyrig. (At this time Hengest and Aesc, his son, fought against the
+Britons at the place which is called Crayford and there slew four thousand
+men. And then the Britons forsook Kentland, and with much fear fled to
+London town.)[26]
+
+The reader who utters these words aloud a few times will speedily recognize
+his own tongue, not simply in the words but also in the whole structure of
+the sentences.
+
+From such records we see that our speech is Teutonic in its origin; and
+when we examine any Teutonic language we learn that it is only a branch of
+the great Aryan or Indo-European family of languages. In life and language,
+therefore, we are related first to the Teutonic races, and through them to
+all the nations of this Indo-European family, which, starting with enormous
+vigor from their original home (probably in central Europe)[27] spread
+southward and westward, driving out the native tribes and slowly developing
+the mighty civilizations of India, Persia, Greece, Rome, and the wilder but
+more vigorous life of the Celts and Teutons. In all these
+languages--Sanskrit, Iranian, Greek, Latin, Celtic, Teutonic--we recognize
+the same root words for father and mother, for God and man, for the common
+needs and the common relations of life; and since words are windows through
+which we see the soul of this old people, we find certain ideals of love,
+home, faith, heroism, liberty, which seem to have been the very life of our
+forefathers, and which were inherited by them from their old heroic and
+conquering ancestors. It was on the borders of the North Sea that our
+fathers halted for unnumbered centuries on their westward journey, and
+slowly developed the national life and language which we now call Anglo-
+Saxon.
+
+It is this old vigorous Anglo-Saxon language which forms the basis of our
+modern English. If we read a paragraph from any good English book, and then
+analyze it, as we would a flower, to see what it contains, we find two
+distinct classes of words. The first class, containing simple words
+expressing the common things of life, makes up the strong framework of our
+language. These words are like the stem and bare branches of a mighty oak,
+and if we look them up in the dictionary we find that almost invariably
+they come to us from our Anglo-Saxon ancestors. The second and larger class
+of words is made up of those that give grace, variety, ornament, to our
+speech. They are like the leaves and blossoms of the same tree, and when we
+examine their history we find that they come to us from the Celts, Romans,
+Normans, and other peoples with whom we have been in contact in the long
+years of our development. The most prominent characteristic of our present
+language, therefore, is its dual character. Its best qualities--strength,
+simplicity, directness--come from Anglo-Saxon sources; its enormous added
+wealth of expression, its comprehensiveness, its plastic adaptability to
+new conditions and ideas, are largely the result of additions from other
+languages, and especially of its gradual absorption of the French language
+after the Norman Conquest. It is this dual character, this combination of
+native and foreign, of innate and exotic elements, which accounts for the
+wealth of our English language and literature. To see it in concrete form,
+we should read in succession _Beowulf_ and _Paradise Lost_, the two great
+epics which show the root and the flower of our literary development.
+
+
+III. CHRISTIAN WRITERS OF THE ANGLO-SAXON PERIOD
+
+The literature of this period falls naturally into two divisions,--pagan
+and Christian. The former represents the poetry which the Anglo-Saxons
+probably brought with them in the form of oral sagas,--the crude material
+out of which literature was slowly developed on English soil; the latter
+represents the writings developed under teaching of the monks, after the
+old pagan religion had vanished, but while it still retained its hold on
+the life and language of the people. In reading our earliest poetry it is
+well to remember that all of it was copied by the monks, and seems to have
+been more or less altered to give it a religious coloring.
+
+The coming of Christianity meant not simply a new life and leader for
+England; it meant also the wealth of a new language. The scop is now
+replaced by the literary monk; and that monk, though he lives among common
+people and speaks with the English tongue, has behind him all the culture
+and literary resources of the Latin language. The effect is seen instantly
+in our early prose and poetry.
+
+NORTHUMBRIAN LITERATURE. In general, two great schools of Christian
+influence came into England, and speedily put an end to the frightful wars
+that had waged continually among the various petty kingdoms of the
+Anglo-Saxons. The first of these, under the leadership of Augustine, came
+from Rome. It spread in the south and center of England, especially in the
+kingdom of Essex. It founded schools and partially educated the rough
+people, but it produced no lasting literature. The other, under the
+leadership of the saintly Aidan, came from Ireland, which country had been
+for centuries a center of religion and education for all western Europe.
+The monks of this school labored chiefly in Northumbria, and to their
+influence we owe all that is best in Anglo-Saxon literature. It is called
+the Northumbrian School; its center was the monasteries and abbeys, such as
+Jarrow and Whitby, and its three greatest names are Bede, Cædmon, and
+Cynewulf.
+
+
+BEDE (673-735)
+
+The Venerable Bede, as he is generally called, our first great scholar and
+"the father of our English learning," wrote almost exclusively in Latin,
+his last work, the translation of the Gospel of John into Anglo-Saxon,
+having been unfortunately lost. Much to our regret, therefore, his books
+and the story of his gentle, heroic life must be excluded from this history
+of our literature. His works, over forty in number, covered the whole field
+of human knowledge in his day, and were so admirably written that they were
+widely copied as text-books, or rather manuscripts, in nearly all the
+monastery schools of Europe.
+
+The work most important to us is the _Ecclesiastical History of the English
+People_. It is a fascinating history to read even now, with its curious
+combination of accurate scholarship and immense credulity. In all strictly
+historical matters Bede is a model. Every known authority on the subject,
+from Pliny to Gildas, was carefully considered; every learned pilgrim to
+Rome was commissioned by Bede to ransack the archives and to make copies of
+papal decrees and royal letters; and to these were added the testimony of
+abbots who could speak from personal knowledge of events or repeat the
+traditions of their several monasteries.
+
+Side by side with this historical exactness are marvelous stories of saints
+and missionaries. It was an age of credulity, and miracles were in men's
+minds continually. The men of whom he wrote lived lives more wonderful than
+any romance, and their courage and gentleness made a tremendous impression
+on the rough, warlike people to whom they came with open hands and hearts.
+It is the natural way of all primitive peoples to magnify the works of
+their heroes, and so deeds of heroism and kindness, which were part of the
+daily life of the Irish missionaries, were soon transformed into the
+miracles of the saints. Bede believed these things, as all other men did,
+and records them with charming simplicity, just as he received them from
+bishop or abbot. Notwithstanding its errors, we owe to this work nearly all
+our knowledge of the eight centuries of our history following the landing
+of Cæsar in Britain.
+
+CÆDMON (Seventh Century)
+
+    Now must we hymn the Master of heaven,
+    The might of the Maker, the deeds of the Father,
+    The thought of His heart. He, Lord everlasting,
+    Established of old the source of all wonders:
+    Creator all-holy, He hung the bright heaven,
+    A roof high upreared, o'er the children of men;
+    The King of mankind then created for mortals
+    The world in its beauty, the earth spread beneath them,
+    He, Lord everlasting, omnipotent God.[28]
+
+If _Beowulf_ and the fragments of our earliest poetry were brought into
+England, then the hymn given above is the first verse of all native English
+song that has come down to us, and Cædmon is the first poet to whom we can
+give a definite name and date. The words were written about 665 A.D. and
+are found copied at the end of a manuscript of Bede's _Ecclesiastical
+History_.
+
+LIFE OF CæDMON. What little we know of Cædmon, the Anglo-Saxon Milton, as
+he is properly called, is taken from Bede's account[29] of the Abbess Hilda
+and of her monastery at Whitby. Here is a free and condensed translation of
+Bede's story:
+
+There was, in the monastery of the Abbess Hilda, a brother distinguished by
+the grace of God, for that he could make poems treating of goodness and
+religion. Whatever was translated to him (for he could not read) of Sacred
+Scripture he shortly reproduced in poetic form of great sweetness and
+beauty. None of all the English poets could equal him, for he learned not
+the art of song from men, nor sang by the arts of men. Rather did he
+receive all his poetry as a free gift from God, and for this reason he did
+never compose poetry of a vain or worldly kind.
+
+Until of mature age he lived as a layman and had never learned any poetry.
+Indeed, so ignorant of singing was he that sometimes, at a feast, where it
+was the custom that for the pleasure of all each guest should sing in turn,
+he would rise from the table when he saw the harp coming to him and go home
+ashamed. Now it happened once that he did this thing at a certain
+festivity, and went out to the stall to care for the horses, this duty
+being assigned to him for that night. As he slept at the usual time, one
+stood by him saying: "Cædmon, sing me something." "I cannot sing," he
+answered, "and that is why I came hither from the feast." But he who spake
+unto him said again, "Cædmon, sing to me." And he said, "What shall I
+sing?" and he said, "Sing the beginning of created things." Thereupon
+Cædmon began to sing verses that he had never heard before, of this import:
+"Now should we praise the power and wisdom of the Creator, the works of the
+Father." This is the sense but not the form of the hymn that he sang while
+sleeping.
+
+When he awakened, Cædmon remembered the words of the hymn and added to them
+many more. In the morning he went to the steward of the monastery lands and
+showed him the gift he had received in sleep. The steward brought him to
+Hilda, who made him repeat to the monks the hymn he had composed, and all
+agreed that the grace of God was upon Cædmon. To test him they expounded to
+him a bit of Scripture from the Latin and bade him, if he could, to turn it
+into poetry. He went away humbly and returned in the morning with an
+excellent poem. Thereupon Hilda received him and his family into the
+monastery, made him one of the brethren, and commanded that the whole
+course of Bible history be expounded to him. He in turn, reflecting upon
+what he had heard, transformed it into most delightful poetry, and by
+echoing it back to the monks in more melodious sounds made his teachers his
+listeners. In all this his aim was to turn men from wickedness and to help
+them to the love and practice of well doing.
+
+[Then follows a brief record of Cædmon's life and an exquisite picture of
+his death amidst the brethren.] And so it came to pass [says the simple
+record] that as he served God while living in purity of mind and serenity
+of spirit, so by a peaceful death he left the world and went to look upon
+His face.
+
+CæDMON'S WORKS. The greatest work attributed to Cædmon is the so-called
+_Paraphrase_. It is the story of Genesis, Exodus, and a part of Daniel,
+told in glowing, poetic language, with a power of insight and imagination
+which often raises it from paraphrase into the realm of true poetry. Though
+we have Bede's assurance that Cædmon "transformed the whole course of Bible
+history into most delightful poetry," no work known certainly to have been
+composed by him has come down to us. In the seventeenth century this
+Anglo-Saxon _Paraphrase_ was discovered and attributed to Cædmon, and his
+name is still associated with it, though it is now almost certain that the
+_Paraphrase_ is the work of more than one writer.
+
+Aside from the doubtful question of authorship, even a casual reading of
+the poem brings us into the presence of a poet rude indeed, but with a
+genius strongly suggestive at times of the matchless Milton. The book opens
+with a hymn of praise, and then tells of the fall of Satan and his rebel
+angels from heaven, which is familiar to us in Milton's _Paradise Lost_.
+Then follows the creation of the world, and the _Paraphrase_ begins to
+thrill with the old Anglo-Saxon love of nature.
+
+    Here first the Eternal Father, guard of all,
+    Of heaven and earth, raisèd up the firmament,
+    The Almighty Lord set firm by His strong power
+    This roomy land; grass greened not yet the plain,
+    Ocean far spread hid the wan ways in gloom.
+    Then was the Spirit gloriously bright
+    Of Heaven's Keeper borne over the deep
+    Swiftly. The Life-giver, the Angel's Lord,
+    Over the ample ground bade come forth Light.
+    Quickly the High King's bidding was obeyed,
+    Over the waste there shone light's holy ray.
+    Then parted He, Lord of triumphant might,
+    Shadow from shining, darkness from the light.
+    Light, by the Word of God, was first named day.[30]
+
+After recounting the story of Paradise, the Fall, and the Deluge, the
+_Paraphrase_ is continued in the Exodus, of which the poet makes a noble
+epic, rushing on with the sweep of a Saxon army to battle. A single
+selection is given here to show how the poet adapted the story to his
+hearers:
+
+                        Then they saw,
+    Forth and forward faring, Pharaoh's war array
+    Gliding on, a grove of spears;--glittering the hosts!
+    Fluttered there the banners, there the folk the march trod.
+    Onwards surged the war, strode the spears along,
+    Blickered the broad shields; blew aloud the trumpets....
+    Wheeling round in gyres, yelled the fowls of war,
+    Of the battle greedy; hoarsely barked the raven,
+    Dew upon his feathers, o'er the fallen corpses--
+    Swart that chooser of the slain! Sang aloud the wolves
+    At eve their horrid song, hoping for the carrion.[31]
+
+Besides the _Paraphrase_ we have a few fragments of the same general
+character which are attributed to the school of Cædmon. The longest of
+these is _Judith_, in which the story of an apocryphal book of the Old
+Testament is done into vigorous poetry. Holofernes is represented as a
+savage and cruel Viking, reveling in his mead hall; and when the heroic
+Judith cuts off his head with his own sword and throws it down before the
+warriors of her people, rousing them to battle and victory, we reach
+perhaps the most dramatic and brilliant point of Anglo-Saxon literature.
+
+
+CYNEWULF (Eighth Century)
+
+Of Cynewulf, greatest of the Anglo-Saxon poets, excepting only the unknown
+author of _Beowulf_, we know very little. Indeed, it was not till 1840,
+more than a thousand years after his death, that even his name became
+known. Though he is the only one of our early poets who signed his works,
+the name was never plainly written, but woven into the verses in the form
+of secret runes,[32] suggesting a modern charade, but more difficult of
+interpretation until one has found the key to the poet's signature.
+
+WORKS OF CYNEWULF. The only signed poems of Cynewulf are _The Christ,
+Juliana, The Fates of the Apostles_, and _Elene_. Unsigned poems attributed
+to him or his school are _Andreas_, the _Phoenix_, the _Dream of the Rood_,
+the _Descent into Hell_, _Guthlac_, the _Wanderer_, and some of the
+Riddles. The last are simply literary conundrums in which some well-known
+object, like the bow or drinking horn, is described in poetic language, and
+the hearer must guess the name. Some of them, like "The Swan"[33] and "The
+Storm Spirit," are unusually beautiful.
+
+Of all these works the most characteristic is undoubtedly _The Christ_, a
+didactic poem in three parts: the first celebrating the Nativity; the
+second, the Ascension; and the third, "Doomsday," telling the torments of
+the wicked and the unending joy of the redeemed. Cynewulf takes his
+subject-matter partly from the Church liturgy, but more largely from the
+homilies of Gregory the Great. The whole is well woven together, and
+contains some hymns of great beauty and many passages of intense dramatic
+force. Throughout the poem a deep love for Christ and a reverence for the
+Virgin Mary are manifest. More than any other poem in any language, _The
+Christ_ reflects the spirit of early Latin Christianity.
+
+Here is a fragment comparing life to a sea voyage,--a comparison which
+occurs sooner or later to every thoughtful person, and which finds perfect
+expression in Tennyson's "Crossing the Bar."
+
+    Now 'tis most like as if we fare in ships
+    On the ocean flood, over the water cold,
+    Driving our vessels through the spacious seas
+    With horses of the deep. A perilous way is this
+    Of boundless waves, and there are stormy seas
+    On which we toss here in this (reeling) world
+    O'er the deep paths. Ours was a sorry plight
+    Until at last we sailed unto the land,
+    Over the troubled main. Help came to us
+    That brought us to the haven of salvation,
+    God's Spirit-Son, and granted grace to us
+    That we might know e'en from the vessel's deck
+    Where we must bind with anchorage secure
+    Our ocean steeds, old stallions of the waves.
+
+In the two epic poems of _Andreas_ and _Elene_ Cynewulf (if he be the
+author) reaches the very summit of his poetical art. _Andreas_, an unsigned
+poem, records the story of St. Andrew, who crosses the sea to rescue his
+comrade St. Matthew from the cannibals. A young ship-master who sails the
+boat turns out to be Christ in disguise, Matthew is set free, and the
+savages are converted by a miracle.[34] It is a spirited poem, full of rush
+and incident, and the descriptions of the sea are the best in Anglo-Saxon
+poetry.
+
+_Elene_ has for its subject-matter the finding of the true cross. It tells
+of Constantine's vision of the Rood, on the eve of battle. After his
+victory under the new emblem he sends his mother Helena (Elene) to
+Jerusalem in search of the original cross and the nails. The poem, which is
+of very uneven quality, might properly be put at the end of Cynewulf's
+works. He adds to the poem a personal note, signing his name in runes; and,
+if we accept the wonderful "Vision of the Rood" as Cynewulf's work, we
+learn how he found the cross at last in his own heart. There is a
+suggestion here of the future Sir Launfal and the search for the Holy
+Grail.
+
+DECLINE OF NORTHUMBRIAN LITERATURE. The same northern energy which had
+built up learning and literature so rapidly in Northumbria was instrumental
+in pulling it down again. Toward the end of the century in which Cynewulf
+lived, the Danes swept down on the English coasts and overwhelmed
+Northumbria. Monasteries and schools were destroyed; scholars and teachers
+alike were put to the sword, and libraries that had been gathered leaf by
+leaf with the toil of centuries were scattered to the four winds. So all
+true Northumbrian literature perished, with the exception of a few
+fragments, and that which we now possess[35] is largely a translation in
+the dialect of the West Saxons. This translation was made by Alfred's
+scholars, after he had driven back the Danes in an effort to preserve the
+ideals and the civilization that had been so hardly won. With the conquest
+of Northumbria ends the poetic period of Anglo-Saxon literature. With
+Alfred the Great of Wessex our prose literature makes a beginning.
+
+
+ALFRED (848-901)
+
+    "Every craft and every power soon grows
+    old and is passed over and forgotten, if it
+    be without wisdom.... This is now to be
+    said, that whilst I live I wish to live nobly,
+    and after life to leave to the men who come
+    after me a memory of good works."[36]
+
+So wrote the great Alfred, looking back over his heroic life. That he lived
+nobly none can doubt who reads the history of the greatest of Anglo-Saxon
+kings; and his good works include, among others, the education of half a
+country, the salvage of a noble native literature, and the creation of the
+first English prose.
+
+LIFE AND TIMES OF ALFRED. For the history of Alfred's times, and details of
+the terrific struggle with the Northmen, the reader must be referred to the
+histories. The struggle ended with the Treaty of Wedmore, in 878, with the
+establishment of Alfred not only as king of Wessex, but as overlord of the
+whole northern country. Then the hero laid down his sword, and set himself
+as a little child to learn to read and write Latin, so that he might lead
+his people in peace as he had led them in war. It is then that Alfred began
+to be the heroic figure in literature that he had formerly been in the wars
+against the Northmen.
+
+With the same patience and heroism that had marked the long struggle for
+freedom, Alfred set himself to the task of educating his people. First he
+gave them laws, beginning with the Ten Commandments and ending with the
+Golden Rule, and then established courts where laws could be faithfully
+administered. Safe from the Danes by land, he created a navy, almost the
+first of the English fleets, to drive them from the coast. Then, with peace
+and justice established within his borders, he sent to Europe for scholars
+and teachers, and set them over schools that he established. Hitherto all
+education had been in Latin; now he set himself the task, first, of
+teaching every free-born Englishman to read and write his own language, and
+second, of translating into English the best books for their instruction.
+Every poor scholar was honored at his court and was speedily set to work at
+teaching or translating; every wanderer bringing a book or a leaf of
+manuscript from the pillaged monasteries of Northumbria was sure of his
+reward. In this way the few fragments of native Northumbrian literature,
+which we have been studying, were saved to the world. Alfred and his
+scholars treasured the rare fragments and copied them in the West-Saxon
+dialect. With the exception of Cædmon's Hymn, we have hardly a single leaf
+from the great literature of Northumbria in the dialect in which it was
+first written.
+
+WORKS OF ALFRED. Aside from his educational work, Alfred is known chiefly
+as a translator. After fighting his country's battles, and at a time when
+most men were content with military honor, he began to learn Latin, that he
+might translate the works that would be most helpful to his people. His
+important translations are four in number: Orosius's _Universal History and
+Geography_, the leading work in general history for several centuries;
+Bede's _History_,[37] the first great historical work written on English
+soil; Pope Gregory's _Shepherds' Book_, intended especially for the clergy;
+and Boethius's _Consolations of Philosophy_, the favorite philosophical
+work of the Middle Ages.
+
+More important than any translation is the _English_ or _Saxon Chronicle_.
+This was probably at first a dry record, especially of important births and
+deaths in the West-Saxon kingdom. Alfred enlarged this scant record,
+beginning the story with Cæsar's conquest. When it touches his own reign
+the dry chronicle becomes an interesting and connected story, the oldest
+history belonging to any modern nation in its own language. The record of
+Alfred's reign, probably by himself, is a splendid bit of writing and shows
+clearly his claim to a place in literature as well as in history. The
+_Chronicle_ was continued after Alfred's death, and is the best monument of
+early English prose that is left to us. Here and there stirring songs are
+included in the narrative, like "The Battle of Brunanburh" and "The Battle
+of Maldon."[38] The last, entered 991, seventy-five years before the Norman
+Conquest, is the swan song of Anglo-Saxon poetry. The _Chronicle_ was
+continued for a century after the Norman Conquest, and is extremely
+valuable not only as a record of events but as a literary monument showing
+the development of our language.
+
+CLOSE OF THE ANGLO-SAXON PERIOD. After Alfred's death there is little to
+record, except the loss of the two supreme objects of his heroic struggle,
+namely, a national life and a national literature. It was at once the
+strength and the weakness of the Saxon that he lived apart as a free man
+and never joined efforts willingly with any large body of his fellows. The
+tribe was his largest idea of nationality, and, with all our admiration, we
+must confess as we first meet him that he has not enough sense of unity to
+make a great nation, nor enough culture to produce a great literature. A
+few noble political ideals repeated in a score of petty kingdoms, and a few
+literary ideals copied but never increased,--that is the summary of his
+literary history. For a full century after Alfred literature was
+practically at a standstill, having produced the best of which it was
+capable, and England waited for the national impulse and for the culture
+necessary for a new and greater art. Both of these came speedily, by way of
+the sea, in the Norman Conquest.
+
+SUMMARY OF ANGLO-SAXON PERIOD. Our literature begins with songs and stories
+of a time when our Teutonic ancestors were living on the borders of the
+North Sea. Three tribes of these ancestors, the Jutes, Angles, and Saxons,
+conquered Britain in the latter half of the fifth century, and laid the
+foundation of the English nation. The first landing was probably by a tribe
+of Jutes, under chiefs called by the chronicle Hengist and Horsa. The date
+is doubtful; but the year 449 is accepted by most historians.
+
+These old ancestors were hardy warriors and sea rovers, yet were capable of
+profound and noble emotions. Their poetry reflects this double nature. Its
+subjects were chiefly the sea and the plunging boats, battles, adventure,
+brave deeds, the glory of warriors, and the love of home. Accent,
+alliteration, and an abrupt break in the middle of each line gave their
+poetry a kind of martial rhythm. In general the poetry is earnest and
+somber, and pervaded by fatalism and religious feeling. A careful reading
+of the few remaining fragments of Anglo-Saxon literature reveals five
+striking characteristics: the love of freedom; responsiveness to nature,
+especially in her sterner moods; strong religious convictions, and a belief
+in Wyrd, or Fate; reverence for womanhood; and a devotion to glory as the
+ruling motive in every warrior's life.
+
+In our study we have noted: (1) the great epic or heroic poem _Beowulf_,
+and a few fragments of our first poetry, such as "Widsith," "Deor's
+Lament," and "The Seafarer." (2) Characteristics of Anglo-Saxon life; the
+form of our first speech. (3) The Northumbrian school of writers. Bede, our
+first historian, belongs to this school; but all his extant works are in
+Latin. The two great poets are Cædmon and Cynewulf. Northumbrian literature
+flourished between 650 and 850. In the year 867 Northumbria was conquered
+by the Danes, who destroyed the monasteries and the libraries containing
+our earliest literature. (4) The beginnings of English prose writing under
+Alfred (848-901). Our most important prose work of this age is the
+Anglo-Saxon Chronicle, which was revised and enlarged by Alfred, and which
+was continued for more than two centuries. It is the oldest historical
+record known to any European nation in its own tongue.
+
+SELECTIONS FOR READING. _Miscellaneous Poetry_. The Seafarer, Love Letter
+(Husband's Message), Battle of Brunanburh, Deor's Lament, Riddles, Exodus,
+The Christ, Andreas, Dream of the Rood, extracts in Cook and Tinker's
+Translations from Old English Poetry[39] (Ginn and Company); Judith,
+translation by A.S. Cook. Good selections are found also in Brooke's
+History of Early English Literature, and Morley's English Writers, vols. 1
+and 2.
+
+_Beowulf_. J.R.C. Hall's prose translation; Child's Beowulf (Riverside
+Literature Series); Morris and Wyatt's The Tale of Beowulf; Earle's The
+Deeds of Beowulf; Metrical versions by Garnett, J.L. Hall, Lumsden, etc.
+
+_Prose_. A few paragraphs of the Anglo-Saxon Chronicle in Manly's English
+Prose; translations in Cook and Tinker's Old English Prose.
+
+BIBLIOGRAPHY.[40]
+
+_HISTORY_. For the facts of the Anglo-Saxon conquest of England consult
+first a good text-book: Montgomery, pp. 31--57, or Cheyney, pp. 36-84. For
+fuller treatment see Green, ch. 1; Traill, vol. 1; Ramsey's Foundations of
+England; Turner's History of the Anglo-Saxons; Freeman's Old English
+History; Allen's Anglo-Saxon England; Cook's Life of Alfred; Asser's Life
+of King Alfred, edited by W.H. Stevenson; C. Plummer's Life and Times of
+Alfred the Great; E. Dale's National Life and Character in the Mirror of
+Early English Literature; Rhys's Celtic Britain.
+
+_LITERATURE. Anglo-Saxon Texts_. Library of Anglo-Saxon Poetry, and Albion
+Series of Anglo-Saxon and Middle English Poetry (Ginn and Company); Belles
+Lettres Series of English Classics, sec. 1 (Heath & Co.); J.W. Bright's
+Anglo-Saxon Reader; Sweet's Anglo-Saxon Primer, and Anglo-Saxon Reader.
+
+_General Works_. Jusserand, Ten Brink, Cambridge History, Morley (full
+titles and publishers in General Bibliography).
+
+_Special Works_. Brooke's History of Early English Literature; Earle's
+Anglo-Saxon Literature; Lewis's Beginnings of English Literature; Arnold's
+Celtic Literature (for relations of Saxon and Celt); Longfellow's Poets and
+Poetry of Europe; Hall's Old English Idyls; Gayley's Classic Myths, or
+Guerber's Myths of the Northlands (for Norse Mythology); Brother Azarias's
+Development of Old English Thought.
+
+Beowulf, prose translations by Tinker, Hall, Earle, Morris and Wyatt;
+metrical versions by Garnett, J.L. Hall, Lumsden, etc. The Exeter Book (a
+collection of Anglo-Saxon texts), edited and translated by Gollancz. The
+Christ of Cynewulf, prose translation by Whitman; the same poem, text and
+translation, by Gollancz; text by Cook. Cædmon's Paraphrase, text and
+translation, by Thorpe. Garnett's Elene, Judith, and other Anglo-Saxon
+Poems. Translations of Andreas and the Phoenix, in Gollancz's Exeter Book.
+Bede's History, in Temple Classics; the same with the Anglo-Saxon Chronicle
+(one volume) in Bohn's Antiquarian Library.
+
+
+SUGGESTIVE QUESTIONS.[41]
+
+1. What is the relation of history and literature? Why should both subjects
+be studied together? Explain the qualities that characterize all great
+literature. Has any text-book in history ever appealed to you as a work of
+literature? What literary qualities have you noticed in standard historical
+works, such as those of Macaulay, Prescott, Gibbon, Green, Motley, Parkman,
+and John Fiske?
+
+2. Why did the Anglo-Saxons come to England? What induced them to remain?
+Did any change occur in their ideals, or in their manner of life? Do you
+know any social or political institutions which they brought, and which, we
+still cherish?
+
+3. From the literature you have read, what do you know about our Anglo-
+Saxon ancestors? What virtues did they admire in men? How was woman
+regarded? Can you compare the Anglo-Saxon ideal of woman with that of other
+nations, the Romans for instance?
+
+4. Tell in your own words the general qualities of Anglo-Saxon poetry. How
+did it differ in its metrical form from modern poetry? What passages seem
+to you worth learning and remembering? Can you explain why poetry is more
+abundant and more interesting than prose in the earliest literature of all
+nations?
+
+5. Tell the story of _Beowulf_. What appeals to you most in the poem? Why
+is it a work for all time, or, as the Anglo-Saxons would say, why is it
+worthy to be remembered? Note the permanent quality of literature, and the
+ideals and emotions which are emphasized in _Beowulf_. Describe the burials
+of Scyld and of Beowulf. Does the poem teach any moral lesson? Explain the
+Christian elements in this pagan epic.
+
+6. Name some other of our earliest poems, and describe the one you like
+best. How does the sea figure in our first poetry? How is nature regarded?
+What poem reveals the life of the scop or poet? How do you account for the
+serious character of Anglo-Saxon poetry? Compare the Saxon and the Celt
+with regard to the gladsomeness of life as shown in their literature.
+
+7. What useful purpose did poetry serve among our ancestors? What purpose
+did the harp serve in reciting their poems? Would the harp add anything to
+our modern poetry?
+
+8. What is meant by Northumbrian literature? Who are the great Northumbrian
+writers? What besides the Danish conquest caused the decline of
+Northumbrian literature?
+
+9. For what is Bede worthy to be remembered? Tell the story of Cædmon, as
+recorded in Bede's History. What new element is introduced in Cædmon's
+poems? What effect did Christianity have upon Anglo-Saxon literature? Can
+you quote any passages from Cædmon to show that Anglo-Saxon character was
+not changed but given a new direction? If you have read Milton's _Paradise
+Lost_, what resemblances are there between that poem and Cædmon's
+_Paraphrase?_
+
+10. What are the Cynewulf poems? Describe any that you have read. How do
+they compare in spirit and in expression with _Beowulf_? with Cædmon? Read
+_The Phoenix_ (which is a translation from the Latin) in Brooke's History
+of Early English Literature, or in Gollancz's Exeter Book, or in Cook's
+Translations from Old English Poetry, and tell what elements you find to
+show that the poem is not of Anglo-Saxon origin. Compare the views of
+nature in Beowulf and in the Cynewulf poems.
+
+11. Describe the Anglo-Saxon Chronicle. What is its value in our language,
+literature, and history? Give an account of Alfred's life and of his work
+for literature. How does Anglo-Saxon prose compare in interest with the
+poetry?
+
+
+                              CHRONOLOGY
+=====================================================================
+  HISTORY                          |  LITERATURE
+---------------------------------------------------------------------
+                                   |
+449(?). Landing of Hengist and     |
+        Horsa in Britain           |
+                                   |
+477. Landing of South Saxons       |
+                                   |
+547. Angles settle Northumbria     | 547. Gildas's History
+                                   |
+597. Landing of Augustine and his  |
+      monks. Conversion of Kent    |
+                                   |
+617. Eadwine, king of Northumbria  |
+                                   |
+635-665. Coming of St. Aidan.      |
+      Conversion of Northumbria    | 664. Cædmon at Whitby
+                                   |
+                                   | 673-735. Bede
+                                   |
+                                   | 750 (_cir_.). Cynewulf
+                                   |   poems
+867. Danes conquer Northumbria     |
+                                   |
+871. Alfred, king of Wessex        | 860. Anglo-Saxon Chronicle begun
+                                   |
+878. Defeat of Danes. Peace of     |
+       Wedmore                     |
+                                   |
+901. Death of Alfred               | 991. Last known poem of the
+                                   |        Anglo-Saxon
+                                   |        
